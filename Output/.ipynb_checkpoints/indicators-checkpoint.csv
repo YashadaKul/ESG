@@ -1,0 +1,73 @@
+,Series Name,Series Code
+0,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS
+1,Access to electricity (% of population),EG.ELC.ACCS.ZS
+2,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS
+3,Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS
+4,Agricultural land (% of land area),AG.LND.AGRI.ZS
+5,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS
+6,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS
+7,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG
+8,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS
+9,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS
+10,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC
+11,Coastal protection,EN.CLC.CSTP.ZS
+12,Control of Corruption: Estimate,CC.EST
+13,Cooling Degree Days,EN.CLC.CDDY.XD
+14,Economic and Social Rights Performance Score,SD.ESR.PERF.XQ
+15,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS
+16,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS
+17,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD
+18,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE
+19,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN
+20,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD
+21,Forest area (% of land area),AG.LND.FRST.ZS
+22,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS
+23,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+24,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE
+25,Gini index,SI.POV.GINI
+26,Government Effectiveness: Estimate,GE.EST
+27,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS
+28,Heat Index 35,EN.CLC.HEAT.XD
+29,Heating Degree Days,EN.CLC.HDDY.XD
+30,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS
+31,Income share held by lowest 20%,SI.DST.FRST.20
+32,Individuals using the Internet (% of population),IT.NET.USER.ZS
+33,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS
+34,Land Surface Temperature,EN.LND.LTMP.DC
+35,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS
+36,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN
+37,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS
+38,"Mammal species, threatened",EN.MAM.THRD.NO
+39,Methane emissions (metric tons of CO2 equivalent per capita),EN.ATM.METH.PC
+40,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT
+41,Net migration,SM.POP.NETM
+42,Nitrous oxide emissions (metric tons of CO2 equivalent per capita),EN.ATM.NOXE.PC
+43,"Patent applications, residents",IP.PAT.RESD
+44,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS
+45,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS
+46,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3
+47,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST
+48,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS
+49,Population density (people per sq. km of land area),EN.POP.DNST
+50,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC
+51,Prevalence of overweight (% of adults),SH.STA.OWAD.ZS
+52,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS
+53,Proportion of bodies of water with good ambient water quality,EN.H2O.BDYS.ZS
+54,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS
+55,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS
+56,Regulatory Quality: Estimate,RQ.EST
+57,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS
+58,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS
+59,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS
+60,Rule of Law: Estimate,RL.EST
+61,"School enrollment, primary (% gross)",SE.PRM.ENRR
+62,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS
+63,Scientific and technical journal articles,IP.JRN.ARTC.SC
+64,Standardised Precipitation-Evapotranspiration Index,EN.CLC.SPEI.XD
+65,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ
+66,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS
+67,Tree Cover Loss (hectares),AG.LND.FRLS.HA
+68,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS
+69,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT
+70,Voice and Accountability: Estimate,VA.EST
+14555,,

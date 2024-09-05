@@ -1,0 +1,209 @@
+,Country Name,Country Code
+0,Afghanistan,AFG
+71,Albania,ALB
+142,Algeria,DZA
+213,Andorra,AND
+284,Angola,AGO
+355,Antigua and Barbuda,ATG
+426,Argentina,ARG
+497,Armenia,ARM
+568,Australia,AUS
+639,Austria,AUT
+710,Azerbaijan,AZE
+781,"Bahamas, The",BHS
+852,Bahrain,BHR
+923,Bangladesh,BGD
+994,Barbados,BRB
+1065,Belarus,BLR
+1136,Belgium,BEL
+1207,Belize,BLZ
+1278,Benin,BEN
+1349,Bhutan,BTN
+1420,Bolivia,BOL
+1491,Bosnia and Herzegovina,BIH
+1562,Botswana,BWA
+1633,Brazil,BRA
+1704,Brunei Darussalam,BRN
+1775,Bulgaria,BGR
+1846,Burkina Faso,BFA
+1917,Burundi,BDI
+1988,Cabo Verde,CPV
+2059,Cambodia,KHM
+2130,Cameroon,CMR
+2201,Canada,CAN
+2272,Central African Republic,CAF
+2343,Chad,TCD
+2414,Chile,CHL
+2485,China,CHN
+2556,Colombia,COL
+2627,Comoros,COM
+2698,"Congo, Dem. Rep.",COD
+2769,"Congo, Rep.",COG
+2840,Costa Rica,CRI
+2911,Cote d'Ivoire,CIV
+2982,Croatia,HRV
+3053,Cuba,CUB
+3124,Cyprus,CYP
+3195,Czechia,CZE
+3266,Denmark,DNK
+3337,Djibouti,DJI
+3408,Dominica,DMA
+3479,Dominican Republic,DOM
+3550,East Asia & Pacific (IDA & IBRD),TEA
+3621,Ecuador,ECU
+3692,"Egypt, Arab Rep.",EGY
+3763,El Salvador,SLV
+3834,Equatorial Guinea,GNQ
+3905,Eritrea,ERI
+3976,Estonia,EST
+4047,Eswatini,SWZ
+4118,Ethiopia,ETH
+4189,Europe & Central Asia (IDA & IBRD),TEC
+4260,Fiji,FJI
+4331,Finland,FIN
+4402,France,FRA
+4473,Gabon,GAB
+4544,"Gambia, The",GMB
+4615,Georgia,GEO
+4686,Germany,DEU
+4757,Ghana,GHA
+4828,Greece,GRC
+4899,Grenada,GRD
+4970,Guatemala,GTM
+5041,Guinea,GIN
+5112,Guinea-Bissau,GNB
+5183,Guyana,GUY
+5254,Haiti,HTI
+5325,Honduras,HND
+5396,Hungary,HUN
+5467,IBRD only,IBD
+5538,Iceland,ISL
+5609,IDA & IBRD total,IBT
+5680,IDA blend,IDB
+5751,IDA only,IDX
+5822,IDA total,IDA
+5893,India,IND
+5964,Indonesia,IDN
+6035,"Iran, Islamic Rep.",IRN
+6106,Iraq,IRQ
+6177,Ireland,IRL
+6248,Israel,ISR
+6319,Italy,ITA
+6390,Jamaica,JAM
+6461,Japan,JPN
+6532,Jordan,JOR
+6603,Kazakhstan,KAZ
+6674,Kenya,KEN
+6745,Kiribati,KIR
+6816,"Korea, Dem. People's Rep.",PRK
+6887,"Korea, Rep.",KOR
+6958,Kuwait,KWT
+7029,Kyrgyz Republic,KGZ
+7100,Lao PDR,LAO
+7171,Latin America & Caribbean (IDA & IBRD),TLA
+7242,Latvia,LVA
+7313,Lebanon,LBN
+7384,Lesotho,LSO
+7455,Liberia,LBR
+7526,Libya,LBY
+7597,Liechtenstein,LIE
+7668,Lithuania,LTU
+7739,Luxembourg,LUX
+7810,Madagascar,MDG
+7881,Malawi,MWI
+7952,Malaysia,MYS
+8023,Maldives,MDV
+8094,Mali,MLI
+8165,Malta,MLT
+8236,Marshall Islands,MHL
+8307,Mauritania,MRT
+8378,Mauritius,MUS
+8449,Mexico,MEX
+8520,"Micronesia, Fed. Sts.",FSM
+8591,Middle East & North Africa (IDA & IBRD),TMN
+8662,Moldova,MDA
+8733,Monaco,MCO
+8804,Mongolia,MNG
+8875,Montenegro,MNE
+8946,Morocco,MAR
+9017,Mozambique,MOZ
+9088,Myanmar,MMR
+9159,Namibia,NAM
+9230,Nauru,NRU
+9301,Nepal,NPL
+9372,Netherlands,NLD
+9443,New Zealand,NZL
+9514,Nicaragua,NIC
+9585,Niger,NER
+9656,Nigeria,NGA
+9727,North Macedonia,MKD
+9798,Norway,NOR
+9869,Oman,OMN
+9940,Pakistan,PAK
+10011,Palau,PLW
+10082,Panama,PAN
+10153,Papua New Guinea,PNG
+10224,Paraguay,PRY
+10295,Peru,PER
+10366,Philippines,PHL
+10437,Poland,POL
+10508,Portugal,PRT
+10579,Qatar,QAT
+10650,Romania,ROU
+10721,Russian Federation,RUS
+10792,Rwanda,RWA
+10863,Samoa,WSM
+10934,San Marino,SMR
+11005,Sao Tome and Principe,STP
+11076,Saudi Arabia,SAU
+11147,Senegal,SEN
+11218,Serbia,SRB
+11289,Seychelles,SYC
+11360,Sierra Leone,SLE
+11431,Singapore,SGP
+11502,Slovak Republic,SVK
+11573,Slovenia,SVN
+11644,Solomon Islands,SLB
+11715,Somalia,SOM
+11786,South Africa,ZAF
+11857,South Asia (IDA & IBRD),TSA
+11928,South Sudan,SSD
+11999,Spain,ESP
+12070,Sri Lanka,LKA
+12141,St. Kitts and Nevis,KNA
+12212,St. Lucia,LCA
+12283,St. Vincent and the Grenadines,VCT
+12354,Sub-Saharan Africa (excluding high income),SSA
+12425,Sub-Saharan Africa (IDA & IBRD),TSS
+12496,Sudan,SDN
+12567,Suriname,SUR
+12638,Sweden,SWE
+12709,Switzerland,CHE
+12780,Syrian Arab Republic,SYR
+12851,Tajikistan,TJK
+12922,Tanzania,TZA
+12993,Thailand,THA
+13064,Timor-Leste,TLS
+13135,Togo,TGO
+13206,Tonga,TON
+13277,Trinidad and Tobago,TTO
+13348,Tunisia,TUN
+13419,Turkiye,TUR
+13490,Turkmenistan,TKM
+13561,Tuvalu,TUV
+13632,Uganda,UGA
+13703,Ukraine,UKR
+13774,United Arab Emirates,ARE
+13845,United Kingdom,GBR
+13916,United States,USA
+13987,Uruguay,URY
+14058,Uzbekistan,UZB
+14129,Vanuatu,VUT
+14200,"Venezuela, RB",VEN
+14271,Viet Nam,VNM
+14342,"Yemen, Rep.",YEM
+14413,Zambia,ZMB
+14484,Zimbabwe,ZWE
+14555,,
+14558,Data from database: Environment Social and Governance (ESG) Data,
+14559,Last Updated: 04/16/2024,
